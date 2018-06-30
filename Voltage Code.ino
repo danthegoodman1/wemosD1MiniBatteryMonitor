@@ -7,4 +7,4 @@ volt=raw/1023.0;
 digitalWrite(D5, LOW); // Hopefully the volt variable has copied the raw value
 // Otherwise just put the digitalWrite at the bottom
 volt=volt*4.2;
-// Do something with the voltage now\n 
+// Do something with the voltage now
