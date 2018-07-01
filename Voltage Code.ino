@@ -5,7 +5,7 @@ digitalWrite(D5, HIGH);
 raw = analogRead(A0);
 volt=raw/1023.0;
 digitalWrite(D5, LOW); // Hopefully the volt variable has copied the raw value
-// Otherwise just put the digitalWrite at the bottom
+// Otherwise just put the digitalWrite at the bottom, but they are primitive data types
 percentage=volt*100;
 volt=volt*4.2;
 // Do something with the voltage now
