@@ -20,3 +20,4 @@ volt=volt*4.2;
 ```
 
 ### [Credit](https://arduinodiy.wordpress.com/2016/12/25/monitoring-lipo-battery-voltage-with-wemos-d1-minibattery-shield-and-thingspeak/)
+### [Also good source](http://esp8266-projects.org/2015/03/internal-adc-esp8266/)
